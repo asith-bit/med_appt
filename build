@@ -1,0 +1,36 @@
+
+> stayhealthy@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  82.11 kB  build/static/js/main.77830c35.js
+  2.82 kB   build/static/css/main.025b6e41.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
+Build folder moved to server/build
+total 48
+-rw-r--r-- 1 theia users  369 Nov 26 07:44 asset-manifest.json
+-rw-r--r-- 1 theia users 3870 Nov 26 07:43 favicon.ico
+-rw-r--r-- 1 theia users 1412 Nov 26 07:44 index.html
+-rw-r--r-- 1 theia users 5347 Nov 26 07:43 logo192.png
+-rw-r--r-- 1 theia users 9664 Nov 26 07:43 logo512.png
+-rw-r--r-- 1 theia users  492 Nov 26 07:43 manifest.json
+-rw-r--r-- 1 theia users 3012 Nov 26 07:43 patient_report.pdf
+-rw-r--r-- 1 theia users   67 Nov 26 07:43 robots.txt
+drwxr-sr-x 4 theia users 4096 Nov 26 07:44 static
