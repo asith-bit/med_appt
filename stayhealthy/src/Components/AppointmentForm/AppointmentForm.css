@@ -1,0 +1,7 @@
+.appointment-form { text-align: left; margin-top: 16px; padding-top: 16px; border-top: 1px solid #e5e7eb; }
+.appointment-form h3 { font-size: 16px; margin-bottom: 14px; text-align: center; }
+.appointment-form .form-group { margin-bottom: 14px; }
+.appointment-form label { display: block; font-weight: 600; font-size: 13px; margin-bottom: 5px; }
+.appointment-form input, .appointment-form select { width: 100%; padding: 9px 12px; border: 1px solid #e5e7eb; border-radius: 8px; font-size: 14px; background: #fff; }
+.appointment-form .form-actions { display: flex; gap: 10px; }
+.appointment-form .form-actions .btn { flex: 1; padding: 8px 12px; font-size: 14px; }

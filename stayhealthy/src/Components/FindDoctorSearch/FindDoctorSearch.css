@@ -1,0 +1,12 @@
+.finddoctor { text-align: center; padding: 50px 20px 30px; }
+.finddoctor h1 { font-size: 34px; margin-bottom: 8px; }
+.finddoctor p { color: #6b7280; margin-bottom: 24px; }
+.finddoctor__box { position: relative; max-width: 620px; margin: 0 auto; }
+.finddoctor__box input { width: 100%; padding: 15px 20px 15px 50px; font-size: 16px; border: 2px solid #2190FF; border-radius: 30px; }
+.finddoctor__box input:focus { outline: none; box-shadow: 0 0 0 4px #d6eaff; }
+.finddoctor__box svg { position: absolute; left: 18px; top: 27px; transform: translateY(-50%); width: 20px; height: 20px; color: #6b7280; }
+.finddoctor__results { position: absolute; left: 0; right: 0; z-index: 20; text-align: left; background: #fff; border: 1px solid #e5e7eb; border-radius: 12px; margin-top: 8px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08); list-style: none; overflow: hidden; }
+.finddoctor__results li { padding: 12px 20px; display: flex; justify-content: space-between; border-bottom: 1px solid #e5e7eb; cursor: pointer; }
+.finddoctor__results li:last-child { border-bottom: none; }
+.finddoctor__results li:hover { background: #eef6ff; }
+.finddoctor__results span { font-size: 12px; color: #6b7280; }

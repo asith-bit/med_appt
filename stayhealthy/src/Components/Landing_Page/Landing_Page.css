@@ -1,0 +1,5 @@
+.hero-section { text-align: center; padding: 120px 20px; }
+.hero-section h1 { font-size: 60px; font-weight: 800; line-height: 1.15; margin-bottom: 20px; }
+.hero-section h4 { font-size: 20px; font-weight: 300; color: #969BA5; max-width: 620px; margin: 0 auto 32px; }
+.hero-btn { padding: 12px 36px; }
+@media (max-width: 768px) { .hero-section h1 { font-size: 40px; } }

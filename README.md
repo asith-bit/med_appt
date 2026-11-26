@@ -8,7 +8,7 @@ StayHealthy is a non-profit healthcare platform that connects patients with doct
 - Sign Up and Login connected to the backend API
 - Find doctors by speciality and book appointments (name, phone, date and time)
 - Instant consultation (name and phone only)
-- Appointment notification on every page, removed on cancel
+- Appointment notification shown on every page, removed on cancel
 - Reviews with a 5-star rating, one review per consultation
 - Profile card with editable name and phone number
 - Reports page to view and download the patient report
